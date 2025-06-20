@@ -3,7 +3,7 @@
 > Generate a 30-day social media content calendar using FastAPI + OpenAI.  
 > Built for educational purposes as part of a Generative AI learning journey.
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=GenAI+Content+Calendar+Builder)
+
 
 ---
 
